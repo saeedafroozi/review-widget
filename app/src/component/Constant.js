@@ -1,0 +1,1 @@
+export const MaxNumber = 5
