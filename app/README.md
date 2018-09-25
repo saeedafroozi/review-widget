@@ -1,7 +1,8 @@
 
 review-widget
 Developed With
-Visual Studio Code - A source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring
+Visual Studio Code -\
+A source code editor developed by Microsoft for Windows, Linux and macOS. It includes support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring
 Node.js - Javascript runtime
 React - A javascript library for building user interfaces
 Babel - A transpiler for javascript
